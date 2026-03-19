@@ -82,7 +82,7 @@ mvp = proj @ view @ model
 
 ## 效果展示
 ### 运行界面
-![3D立方体可视化效果]! [EblTuO5x_converted](https://github.com/user-attachments/assets/80f62c3a-68a9-4de4-9a45-a828800b6c16)
+![EblTuO5x_converted](https://github.com/user-attachments/assets/80f62c3a-68a9-4de4-9a45-a828800b6c16)
 
 ### 关键视觉特征
 - 立方体旋转时，靠近视角的棱边视觉上更粗，远离的更细（透视投影效果）
